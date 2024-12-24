@@ -1,4 +1,12 @@
+👋 About Me
+Hi there! I'm Yousef (xakcha), a passionate Full Stack Developer from Guelmim, Morocco. With expertise in React, Laravel, PHP, MySQL, JavaScript, HTML, and CSS, I thrive on creating efficient and scalable digital solutions.
 
+🚀 Skills & Interests:
+🌐 Frontend: React, TailwindCSS, Bootstrap
+🖥️ Backend: Laravel, PHP, Node.js
+🗄️ Databases: MySQL, MongoDB
+🛠️ Tools: Git, Vite, Webpack
+I’m always looking for opportunities to learn, collaborate, and contribute to meaningful projects. Let’s connect and build something amazing together!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chakcha_64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yousef-idaouti/) 
 
